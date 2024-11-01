@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wp-quick-contact-icon {
+	float: left;
+	height: 34px;
+	margin: 7px 8px 0 0;
+	width: 36px;
+	background-image: url("../images/icons.png");
+	background-color: transparent;
+	background-repeat: no-repeat;
+}
+.wp-quick-contact-left{
+  float:left;
+  width:70%;
+  margin-right:2%;
+}
+.wp-quick-contact-right{
+  float:left;
+  width:28%;
+}
+.wp-quick-contact-textarea{
+  width:98%;
+  padding:1%;
+  font-family:"Trebuchet MS", Arial, verdana, sans-serif;
+}
+.wp-quick-contact-textarea textarea{
+  height:150px;
+}
